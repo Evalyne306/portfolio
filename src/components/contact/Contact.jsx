@@ -12,8 +12,8 @@ export default function Contact() {
      <br></br>
      <br></br>
      <h1>EMAIL</h1>
-     <h3>wanjikueva306@gmail</h3>
-     <h3>wanjikueva306@yahoo</h3>
+     <h3>wanjikueva306@gmail.com</h3>
+     <h3>wanjikueva306@yahoo.com</h3>
     </div>
     </div>
   )

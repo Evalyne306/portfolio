@@ -7,6 +7,7 @@ export default function Skills() {
       <ol >
       <li>Front end</li>
       <li>Back end</li>
+      <li>MS Office</li>
       <li>Adobe Photoshop</li>
       <li>Database Management</li>
       <li>Hardware and Software Troubleshooting </li>
@@ -20,10 +21,7 @@ export default function Skills() {
       <li>Fast Learning</li>
       <li>Creative Thinking</li>
       <li>Conflict Resolution</li>
-      <li>Time Management</li>
-      
-      
-      
+      <li>Time Management</li> 
       
     </ol>
     <br></br>

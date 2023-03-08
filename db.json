@@ -1,0 +1,40 @@
+{
+    "languages": [
+      {
+        "id": "1",
+        "title": "HTML",
+        "poster": "https://ded9.com/wp-content/uploads/2021/09/HRbpZVv.jpg"
+      },
+      {
+        "id": "2",
+        "title": "CSS",
+        "poster": "https://media.licdn.com/dms/image/C4D12AQH2DaMna04C7g/article-cover_image-shrink_600_2000/0/1529198707307?e=2147483647&v=beta&t=BRYj68fhMCYd5AE1zGelpDmMigVo56KER-Yk2FbOaNQ"
+      },
+      {
+        "id": "3",
+        "title": "JAVASCRIPT",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAT-3yW787MqvTIsNgW7M1Y8eDzKT18B53ILlMXPaK00VaGnYaWLxdZN9YxHps6Q1usg&usqp=CAU"
+      },
+      {
+        "id": "4",
+        "title": "REACT",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnghkUSLubYpZIXLDGhoE6vX7BbGP2WTmKZQ&usqp=CAU"
+      },
+      {
+        "id": "5",
+        "title": "RUBY",
+        "poster": "https://www.vskills.in/certification/blog/wp-content/uploads/2014/12/ruby-a-programmers-best-friend-indeed.png"
+      },
+      {
+        "id": "6",
+        "title": "RUBY ON RAILS",
+        "poster": "https://www.developer-tech.com/wp-content/uploads/sites/3/2021/12/ruby-on-rails-7-framework-web-development-programming-coding.jpg"
+      },
+      {
+        "id": "7",
+        "title": "SQLITE",
+        "poster": "https://www.sqlitetutorial.net/wp-content/uploads/2021/04/sqlite-tutorial-homepage.svg"
+      }
+
+    ]
+  }

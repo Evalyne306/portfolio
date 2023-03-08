@@ -10,12 +10,12 @@ export default function Introduction() {
         <h3>And I'm a <span>Software Developer</span></h3>
         <p>My strong sides ; i have experience working as a team, i am a friendly person with eagerness to learn from others and take responsibility. Ability to learn new technology quickly and experiment different ways of handling tasks.</p>
       <div className='social-media'>
-      <a href="https://github.com/Evalyne306?tab=repositories" target="_blank"> <i className="fa fa-github" id="icon" aria-hidden="true"></i></a>
+      <a href="https://github.com/Evalyne306?tab=repositories" rel="noreferrer" target="_blank"> <i className="fa fa-github" id="icon" aria-hidden="true"></i></a>
       </div>
-      <a href="#" className='btn'>Download CV</a>
+      {/* <a href="#" className='btn'>Download CV</a> */}
       </div>
       <div className='home-img'>
-        <img className= "img " src={image} alt="image"/>
+        <img className= "img " src={image} alt="missing pic"/>
       </div>
     </div>
   )

@@ -6,10 +6,11 @@ export default function Navbar() {
         <div className='wrapper'>
             <div className='left'>
    <a href= "#introduction" className='introductionclass'>Home</a>
-   <a href= "#education" className='educationclass'>Education</a>
-   <a href= "#portfolio" className='portfolioclass'>Resume</a>
-   <a href= "#works" className='worksclass'>Work Experience</a>
+   <a href= "#education" className='educationclass'>About</a>
    <a href= "#skills" className='skillsclass'>Skills</a>
+   
+  
+   
 
             </div>
             <div className='right'>

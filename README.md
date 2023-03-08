@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+## Title
+    PORTFOLIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description
+This is a Portfolio app that generally shows a wide range of documents that are owned by an indiviadual or an investors assers, for this case it is an individuals.
 
-## Available Scripts
+# Core Deliverables
+As a user, you can:
 
-In the project directory, you can run:
+-See a number of available slides containing different information about me.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Prerequisites
+Install WIndows Subsystem for Linux (WSL), including a Linux distribution (like Ubuntu)
+Install Node.js on WSL 2: These instructions use Node Version Manager(nvm) for installation, you will need a recent version of NodeJS to run create-react-app, as well as a recent version of Node Package Manager(npm) . for exact version requirements , see the Create React App website
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# To view thePortfolio directly
+This can be done by clicking the link below;
 
-### `npm test`
+[https://6408cefd59526e79df87ca6f--super-granita-706625.netlify.app/]
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Getting Started with Create React App 
 
-### `npm run build`
+To use this repo on your machine requires some simple steps
+1. Open a terminal/ command line interface on your computer 
+2. Open the folder you want to clone to 
+    -go to this repo using this link;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+     https://github.com/Evalyne306/bot-battir-code-challenge
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. click the code button and copy the link, ensure SSH is selected before copying 
+    -once you have copied go back to your terminal and clone the repo using the followng;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   [git@github.com:Evalyne306/portfolio.git]
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-To add all the dependencies to build and run a full React.js apllication install react by using;
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    npx create-react-app file-name
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-If it is installed successfully then , change directories to your new app("file-name" or whaterver you chose to call it)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    cd file-name
+-To navigate to the created directory
 
-## Learn More
+    npm start
+-To know if you made the directory successful , once you have npm start command, you should be directed to the browser and you should have a React Logo displaying on our web page
+    npm install create-react-app 
+-This command will start up the Node .js server and launch a new browser window displaying your app.
+- You can use Ctrl + c to stop running the React app in your command line.
+   # Deployment
+-When you are ready to deploy your web app to production, you can;
+        npm install netlify-cli -g
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+        npm run build 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+        netlify deploy
+        
+-will create a build of your app in the "build"folder. You can learn more in the 'Create React App Guide'on your browser
+# Author
+Evalyne Wanjiku
